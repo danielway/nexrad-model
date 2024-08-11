@@ -1,3 +1,5 @@
+**Note:** The `nexrad-model` crate has been merged into [the `nexrad` repository](https://github.com/danielway/nexrad) and is maintained there. This repository is now archived.
+
 # NEXRAD Model
 
 [![Crates.io](https://img.shields.io/crates/v/nexrad-model)](https://crates.io/crates/nexrad-model)
